@@ -1,4 +1,4 @@
-# Hi, I'm Yannick 👋
+# Hi, I'm Yannick 
 
 **IT Infrastructure & Cybersecurity Professional | Security Operations | Enterprise Systems**
 
@@ -10,17 +10,17 @@ Currently: Transitioning from Infrastructure Administration to Security Operatio
 
 ---
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
-- 🏠 Building **Active Directory security lab** with attack/defense scenarios
-- 🤖 Exploring **AI-assisted security analytics** and automation
-- 📚 Studying for **CISSP** and **CISA** certifications
-- 🟢 Practicing on **Hack The Box** — enumeration, exploitation, problem-solving
-- ☁️ Learning **Azure & AWS security architecture**
+-  Building **Active Directory security lab** with attack/defense scenarios
+-  Exploring **AI-assisted security analytics** and automation
+- Studying for **CISSP** and **CISA** certifications
+-  Practicing on **Hack The Box** — enumeration, exploitation, problem-solving
+- Learning **Azure & AWS security architecture**
 
 ---
 
-## 💼 Core Competencies
+## Core Competencies
 
 **Infrastructure & Systems Administration**
 - Windows Server (2008-2022), Active Directory, Group Policy
@@ -45,7 +45,7 @@ Currently: Transitioning from Infrastructure Administration to Security Operatio
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
@@ -55,7 +55,7 @@ Currently: Transitioning from Infrastructure Administration to Security Operatio
 
 ---
 
-## 📜 Certifications & Memberships
+## Certifications & Memberships
 
 **Professional Memberships**
 
