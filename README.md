@@ -1,7 +1,7 @@
 # Hi, I'm Yannick
 
-IT Infrastructure & Cybersecurity Professional  
-📍 Philadelphia, PA |  French/English bilingual
+**IT Infrastructure & Cybersecurity Professional  
+📍 Philadelphia, PA |  French/English bilingual**
 
 10+ years managing enterprise infrastructure (Windows/VMware/AD)  
 at IBM/Kyndryl — now deepening focus on security operations, cloud security, and AI.
