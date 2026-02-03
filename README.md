@@ -3,7 +3,7 @@
 🛡️ IT Infrastructure & Cybersecurity Professional  
 📍 Philadelphia, PA | 🌍 French/English bilingual
 
-10+ years managing enterprise infrastructure (1Windows/VMware/AD)  
+10+ years managing enterprise infrastructure (Windows/VMware/AD)  
 at IBM/Kyndryl — now deepening focus on security operations, cloud security, and AI.
 
 🎓 M.S. IT Auditing & Cybersecurity — Temple University (Dec 2024)
